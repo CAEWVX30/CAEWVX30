@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil 🖤
 
-<!--
-**CAEWVX30/CAEWVX30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Caique Moreira
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- ultilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### voce pode entrar em contato comigo 📫
+
+  caique.taquaral3133@gmail.com
+
+  @caique_moreira16
+
+
+!https://i.pinimg.com/originals/51/02/5f/51025fc3b8e9987f8ca47e28de841169.jpg
